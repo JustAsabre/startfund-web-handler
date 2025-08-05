@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAM_ID.com.example.startfund-version-2",
+        "paths": [
+          "/reset-password*",
+          "/auth/*"
+        ]
+      }
+    ]
+  }
+}
